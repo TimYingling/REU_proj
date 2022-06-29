@@ -1,0 +1,53 @@
+learning_map_red:
+        128: 1
+        244: 2
+        102: 4
+        190: 5
+        153: 6
+        250: 7
+        107: 9
+        152: 10
+        255: 13
+        119: 19
+        157: 20
+        72: 21
+        167: 22
+        
+learning_map_green:
+        70: 3
+        220: 8
+        130: 11
+        20: 12
+        60: 16
+        80: 17
+        
+learning_map_blue:
+        0: 0
+        142: 14
+        70: 15
+        230: 18
+        
+name:
+        0: void
+        1: road
+        2: sidewalk
+        3: building
+        4: wall
+        5: fence
+        6: pole
+        7: traffic light
+        8: traffic sign
+        9: vegetation
+        10: terrain
+        11: sky
+        12: person
+        13: rider
+        14: car
+        15: truck
+        16: bus
+        17: train
+        18: motorcycle
+        19: bicycle
+        20: road lines
+        21: other
+        22: road works
